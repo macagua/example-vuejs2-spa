@@ -1,6 +1,6 @@
 # vuejs-spa
 
-> A Simple Single Page Application Demo Using Vue.js 2
+> A Simple Single Page Application Demo Using Vue.js 2 following the [How To Build A Simple Single Page Application Using Vue 2 (Part 1)](https://scotch.io/tutorials/how-to-build-a-simple-single-page-application-using-vue-2-part-1) tutorial.
 
 ## Build Setup
 
@@ -19,3 +19,6 @@ npm run build --report
 ```
 
 For detailed explanation on how things work, checkout the [guide](http://vuejs-templates.github.io/webpack/) and [docs for vue-loader](http://vuejs.github.io/vue-loader).
+
+# Reference
+- [How To Build A Simple Single Page Application Using Vue 2 (Part 1)](https://scotch.io/tutorials/how-to-build-a-simple-single-page-application-using-vue-2-part-1).
